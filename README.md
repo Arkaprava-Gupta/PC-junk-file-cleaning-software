@@ -18,7 +18,7 @@ Advantages:
 What it does: 
 It cleans these locations on windows system in one click :
 
-1) %windir%\temp    
+1)%windir%\temp    
 2)%windir%\Prefetch   
 3)%windir%\system32\dllcache   
 4)%SysteDrive%\Temp    
@@ -29,7 +29,7 @@ It cleans these locations on windows system in one click :
 9)%USERPROFILE%\Recent    
 10)%USERPROFILE%\Cookies
 
-11) Any location on the system where temp files get filled repeatedly 
+11)Any location on the system where temp files get filled repeatedly 
 (with a little bit of coding inside the batch file and using that batch file or 
 converting it into exe with the help of advanced .bat to .exe converter).
 
