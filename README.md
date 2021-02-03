@@ -34,7 +34,7 @@ converting it into exe with the help of advanced .bat to .exe converter).
 
 ### Note : You can schedule it in the task scheduler to perform automatic batch cleaning operation at any time of the day, that too within 3-4 secs.
 
-## NO NEED TO FEAR :
+## NO WORRIES :
 Since it is at its early stage and i wanted it to run fast... i haven't made its UI ...so after double clicking the exe ...command prompt will open and close within 3-4 secs displaying some lines of output....some may think that nothing happened and woosh it is gone ....but no!! ...u can check the prefetch folder and all other locations mentioned below ...u will notice that the junk files are  gone...if not then try running the exe as administrator ...since prefetch sometimes blocks users those who aren't admins.
 
 
