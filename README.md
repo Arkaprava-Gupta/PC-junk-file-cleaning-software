@@ -26,6 +26,7 @@ It cleans these locations on windows system in one click :
 6)%USERPROFILE%\Local Settings\History  
 7)%USERPROFILE%\Local Settings\Temporary Internet Files  
 8)%USERPROFILE%\Local Settings\Temp 
+
 9)%USERPROFILE%\Recent    
 10)%USERPROFILE%\Cookies
 
