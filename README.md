@@ -32,5 +32,5 @@ It cleans these locations on windows system in one click :
 (with a little bit of coding inside the batch file and using that batch file [with .bat extension] or 
 converting it into exe with the help of advanced .bat to .exe converter).
 
-### Note : You can schedule it in the task scheduler to perform automatic batch cleaning operation at any time of the day, that too within 3-4 secs.**
+### Note : You can schedule it in the task scheduler to perform automatic batch cleaning operation at any time of the day, that too within 3-4 secs.
 
