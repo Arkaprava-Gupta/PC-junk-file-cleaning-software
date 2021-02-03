@@ -29,7 +29,7 @@ md "%USERPROFILE%\Recent"
 del /s /f /q "%USERPROFILE%\Cookies"\*.*    
 rd /s /q "%USERPROFILE%\Cookies"    
 md "%USERPROFILE%\Cookies"
+@@echo off 
 
-del /s /f /q "D:\davinci recordings\CacheClip"\*.*    
-rd /s /q "D:\davinci recordings\CacheClip"  
-md "D:\davinci recordings\CacheClip"
+powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Junk file Cleaning done', 'Cleaning Success', 'OK', [System.Windows.Forms.MessageBoxIcon]::Information);}"
+view raw
