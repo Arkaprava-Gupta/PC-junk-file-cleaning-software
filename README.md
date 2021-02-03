@@ -1,4 +1,4 @@
-# Batch-cleaning-software
+#NO MORE JUNK
 
 Made for those people who are tired of manually cleaning  PS , After effects, Davinci Resolve, Premiere pro ,ANSYS cache/temp files frequently.
 
