@@ -1,5 +1,6 @@
 # Batch-cleaning-software
-This software is for those people who use any kind of software which generates a lot of temp files or cache files like PS, Premiere pro, Davinci Resolve, After effects, ANSYS etc. which needs frequent cleanup to free up that space.
+
+Made for those people who are tired of manually cleaning  PS , After effects, Davinci Resolve, Premiere pro ,ANSYS cache/temp files frequently.
 
 Earlier I used to manually go to prefetch file and temp file from "Run dialog box"...select all files and then hit shift delete to delete those files. 
 Now I simply click on this exe file and boom all junk at multiple locations (specified by the user) gets deleted within seconds...
