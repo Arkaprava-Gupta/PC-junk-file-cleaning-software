@@ -5,7 +5,7 @@ Made for those people who are tired of manually cleaning  PS , After effects, Da
 Earlier I used to manually go to prefetch file and temp file from "Run dialog box"...select all files and then hit shift delete to delete those files. 
 Now I simply click on this exe file and boom all junk at multiple locations (specified by the user) gets deleted within seconds...
 
-**Benefits:** 
+## Benefits: 
 1) Saves time....Saves Space
 2) Smaller than other apps like cc cleaner etc. 
 3) Free (genuinely :) and open source
@@ -14,7 +14,7 @@ Now I simply click on this exe file and boom all junk at multiple locations (spe
 6) Lastly ....Made in India software.
 
 
-**What it does:** 
+## What it does:
 It cleans these locations on windows system in one click :
 
 1)%windir%\temp    
